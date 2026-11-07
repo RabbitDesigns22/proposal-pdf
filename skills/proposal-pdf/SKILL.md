@@ -35,7 +35,7 @@ Only offer what the service really includes. A channel that needs extra setup (a
 - No promised results: no "more sales", "guaranteed", "first place on Google", "X clicks". Describe what you will do, not what the platform will deliver.
 - Short sentences, plain words, no jargon (say "your ad shows up when someone searches..." instead of "search intent"). At most about 60 words per page outside the table.
 - Free extras are framed as part of the deal ("it comes with..."), never as a desperate discount.
-- One call to action, at the end. No "let me know if you have questions".
+- At most one call to action, at the end (none when the proposal goes inside a chat already open with the client; see page 5). No "let me know if you have questions".
 - Run a de-AI pass (no "elevate", "unlock", "seamless", em-dash chains, groups of three for the sake of it).
 
 ## 4. Design
