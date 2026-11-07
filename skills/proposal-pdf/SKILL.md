@@ -25,7 +25,9 @@ If one fact can't be confirmed, leave it out rather than guessing.
 2. **What you get:** 3 short points about their business, not about the agency. Example: "People searching for sportswear in your city find you first", not "We are experts in Google Ads".
 3. **What's included:** the service, step by step (3 to 5 steps, one line each). Free extras go in their own box marked "Included at no cost", each with one line saying why it helps.
 4. **Investment:** one clear table with the monthly fee, what is free, and what they pay directly to third parties (for example the ad budget, with a suggested starting amount). Include payment terms only if they are confirmed.
-5. **Next step:** one question with two easy answers ("Shall we start this week?"), the WhatsApp number or link, and the agency's name.
+5. **Next step:** the start steps in order. Always include the step where the client gives access to their own accounts (for example: "you open your ad account with your email and card, and invite us as admins; we send you the steps"). Skip the closing call-to-action block when the proposal is sent inside a chat that is already open with the client.
+
+Only offer what the service really includes. A channel that needs extra setup (a maps listing, a verified profile) stays out unless it is part of the deal. Don't mention another account or project of the client unless it has already started.
 
 ## 3. Copy rules
 
