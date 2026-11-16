@@ -32,7 +32,7 @@
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/proposal-pdf
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/proposal-pdf/tree/0eee7b3801462509cc34604684d1aa796d1a9cef
 ```
 
 Or manually: copy `skills/proposal-pdf/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -46,7 +46,7 @@ Or manually: copy `skills/proposal-pdf/` into `~/.claude/skills/` for all your p
 
 **Propuestas de venta en PDF que se ven de agencia cara y se leen como un amigo que te explica un buen trato.** El agente comprueba cada precio y dato contra su fuente antes de escribir, arma 5 páginas (portada, qué gana, qué incluye, inversión, siguiente paso), no promete resultados, pone al cliente como protagonista aunque no tenga logo, construye el PDF desde HTML y revisa cada página antes de entregarlo.
 
-Instalar: `npx skills add RabbitDesigns22/proposal-pdf`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/proposal-pdf/tree/0eee7b3801462509cc34604684d1aa796d1a9cef`
 
 ## More skills from the same setup
 
